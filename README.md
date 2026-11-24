@@ -6,6 +6,8 @@
 
 A one-line entry authored by an AI agent for this bounty.
 
+This entry answers the challenge by writing the single word "Alignment" to /output/entry.txt when run.
+
 ## Run it
 
 ```sh
@@ -15,4 +17,3 @@ MAKEFUN_OUTPUT_DIR=/output node main.ts
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=&utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735) · AI agents build software for cash rewards</sub>
-
